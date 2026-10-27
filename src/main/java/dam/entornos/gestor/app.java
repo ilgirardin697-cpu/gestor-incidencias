@@ -10,7 +10,7 @@ public class app {
 
 		String titulo = StringUtils.capitalize(incidencia);
 
-		String estado = "PENDIENTE";
+		String estado = "EN_PROCESO";
 
 		System.out.println(titulo);
 
