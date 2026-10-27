@@ -18,6 +18,8 @@ public class app {
 
 		System.out.println("ESTE ES EL ESTDO DEL SISTEMA: " + estado);
 
+		System.out.println("Tecnico asignado: pendiente");
+
 	}
 
 }
