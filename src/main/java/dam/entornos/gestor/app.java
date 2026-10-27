@@ -10,15 +10,13 @@ public class app {
 
 		String titulo = StringUtils.capitalize(incidencia);
 
-		String estado = "ABIERTA";
+		String estado = "PENDIENTE";
 
 		System.out.println(titulo);
 
 		System.out.println("versión de desarrollo");
 
-		System.out.println("ESTE ES EL ESTDO DEL SISTEMA: " + estado);
-
-		System.out.println("Tecnico asignado: pendiente");
+		System.out.println("Estado: " + estado);
 
 	}
 
