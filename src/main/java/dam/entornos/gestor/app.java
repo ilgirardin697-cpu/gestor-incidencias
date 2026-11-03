@@ -18,6 +18,8 @@ public class app {
 
 		System.out.println("Estado: " + estado);
 
+		System.out.println("Repositorio remoto conectado");
+
 	}
 
 }
