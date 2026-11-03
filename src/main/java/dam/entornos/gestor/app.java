@@ -20,6 +20,8 @@ public class app {
 
 		System.out.println("Repositorio remoto conectado");
 
+		System.out.println("Repositorio para hacer un fetch y un pull");
+
 	}
 
 }
